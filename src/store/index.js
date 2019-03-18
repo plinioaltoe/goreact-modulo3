@@ -4,7 +4,7 @@ import createSagaMiddleware from 'redux-saga'
 
 import sagas from './sagas'
 
-import reducers from './reducers'
+import reducers from './ducks'
 
 const middlewares = []
 
